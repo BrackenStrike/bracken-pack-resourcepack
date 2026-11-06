@@ -211,7 +211,6 @@
 		{"model": "minecraft:item/gold_helmet_copper_trim", "predicate": {"trim_type": 0.5}},
 		{"model": "minecraft:item/gold_helmet_emerald_trim", "predicate": {"trim_type": 0.7}},
 		{"model": "minecraft:item/gold_helmet_diamond_trim", "predicate": {"trim_type": 0.8}},
-		{"model": "bracken:item/gold_helmet_blaze_trim", "predicate": {"trim_type": 0.85}},
 		{"model": "minecraft:item/gold_helmet_lapis_trim", "predicate": {"trim_type": 0.9}},
 		{"model": "minecraft:item/gold_helmet_amethyst_trim", "predicate": {"trim_type": 1}}
 	],
