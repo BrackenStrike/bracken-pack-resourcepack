@@ -78,6 +78,13 @@
           "model": "minecraft:item/diamond_helmet_resin_trim"
         },
         "when": "minecraft:resin"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "bracken:item/trimmed_armor/diamond_helmet_blaze_trim"
+        },
+        "when": "bracken:blaze"
       }
     ],
     "fallback": {

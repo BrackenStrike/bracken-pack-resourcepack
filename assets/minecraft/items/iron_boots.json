@@ -78,6 +78,13 @@
           "model": "minecraft:item/iron_boots_resin_trim"
         },
         "when": "minecraft:resin"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "bracken:item/trimmed_armor/iron_boots_blaze_trim"
+        },
+        "when": "bracken:blaze"
       }
     ],
     "fallback": {

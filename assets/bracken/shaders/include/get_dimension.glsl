@@ -1,4 +1,4 @@
-int getDimension(float cloudFogDistance) {
+int getDimension(vec3 biomeFog, float cloudFogDistance) {
     float faewildCFD        = 2040.0031;
     float panaceaCFD        = 512.0032;
     float omnidromeCFD      = 2040.0033;

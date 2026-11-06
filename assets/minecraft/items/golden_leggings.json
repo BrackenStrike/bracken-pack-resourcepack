@@ -78,6 +78,13 @@
           "model": "minecraft:item/golden_leggings_resin_trim"
         },
         "when": "minecraft:resin"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "bracken:item/trimmed_armor/golden_leggings_blaze_trim"
+        },
+        "when": "bracken:blaze"
       }
     ],
     "fallback": {
