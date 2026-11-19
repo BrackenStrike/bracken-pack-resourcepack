@@ -10,11 +10,6 @@
                 {
                     "sampler_name": "In",
                     "target": "minecraft:main"
-                },
-                {
-                    "sampler_name": "MainDepth",
-                    "target": "minecraft:main",
-                    "use_depth_buffer": true
                 }
             ],
             "output": "wireframe"
