@@ -1,0 +1,157 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 888501
+      },
+      "model": "item/custom/gothrum_fang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888509
+      },
+      "model": "item/custom/average_weapons/toothed_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888510
+      },
+      "model": "item/custom/average_weapons/wooden_sickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888511
+      },
+      "model": "item/custom/average_weapons/wooden_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888512
+      },
+      "model": "item/custom/average_weapons/wooden_cutlass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888513
+      },
+      "model": "item/custom/average_weapons/wooden_sabre"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888514
+      },
+      "model": "item/custom/average_weapons/wooden_bludgeon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888515
+      },
+      "model": "item/custom/average_weapons/wooden_greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888516
+      },
+      "model": "item/custom/average_weapons/wooden_dagger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888517
+      },
+      "model": "item/custom/average_weapons/wooden_katana"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888518
+      },
+      "model": "item/custom/average_weapons/wooden_buckler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888519
+      },
+      "model": "item/custom/average_weapons/wooden_warhammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888520
+      },
+      "model": "item/custom/average_weapons/wooden_staff"
+    },{
+      "predicate": {
+        "custom_model_data": 888521
+      },
+      "model": "item/custom/average_weapons/verdant_sickle"
+    },
+    {
+    "predicate": {
+      "custom_model_data": 888522
+    },
+    "model": "item/custom/average_weapons/verdant_rapier"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888523
+    },
+    "model": "item/custom/average_weapons/verdant_cutlass"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888524
+    },
+    "model": "item/custom/average_weapons/verdant_sabre"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888525
+    },
+    "model": "item/custom/average_weapons/verdant_bludgeon"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888526
+    },
+    "model": "item/custom/average_weapons/verdant_greatsword"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888527
+    },
+    "model": "item/custom/average_weapons/verdant_dagger"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888528
+    },
+    "model": "item/custom/average_weapons/verdant_katana"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888529
+    },
+    "model": "item/custom/average_weapons/verdant_buckler"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888530
+    },
+    "model": "item/custom/average_weapons/verdant_warhammer"
+    },
+    {
+    "predicate": {
+    "custom_model_data": 888531
+    },
+    "model": "item/custom/average_weapons/verdant_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888532
+      },
+      "model": "item/custom/average_weapons/verdant_sword"
+    }
+        ]
+    }

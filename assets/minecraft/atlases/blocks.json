@@ -7,6 +7,11 @@
         },
         {
             "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
             "source": "custom_items/books",
             "prefix": "custom_items/books/"
         },
@@ -19,11 +24,6 @@
             "type": "directory",
             "source": "custom_items/glacium",
             "prefix": "custom_items/glacium/"
-        },
-        {
-            "type": "directory",
-            "source": "custom_items/faewild",
-            "prefix": "custom_items/faewild/"
         },
         {
             "type": "directory",
@@ -72,6 +72,19 @@
         {
             "type": "single",
             "resource": "entity/enchanting_table_book"
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/items/leggings_trim",
+                "trims/items/chestplate_trim",
+                "trims/items/helmet_trim",
+                "trims/items/boots_trim"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
         }
     ]
 }

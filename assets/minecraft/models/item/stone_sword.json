@@ -1,0 +1,152 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
+  "overrides": [
+        
+        {
+          "predicate": {
+            "custom_model_data": 888510
+          },
+          "model": "item/custom/average_weapons/stone_sickle"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 888511
+        },
+        "model": "item/custom/average_weapons/stone_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888512
+      },
+      "model": "item/custom/average_weapons/stone_cutlass"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 888513
+    },
+    "model": "item/custom/average_weapons/stone_sabre"
+},
+{
+  "predicate": {
+    "custom_model_data": 888514
+  },
+  "model": "item/custom/average_weapons/stone_bludgeon"
+},
+{
+  "predicate": {
+    "custom_model_data": 888515
+  },
+  "model": "item/custom/average_weapons/stone_greatsword"
+},
+{
+  "predicate": {
+    "custom_model_data": 888516
+  },
+  "model": "item/custom/average_weapons/stone_dagger"
+},
+{
+  "predicate": {
+    "custom_model_data": 888517
+  },
+  "model": "item/custom/average_weapons/stone_katana"
+},
+{
+  "predicate": {
+    "custom_model_data": 888518
+  },
+  "model": "item/custom/average_weapons/stone_buckler"
+},
+{
+  "predicate": {
+    "custom_model_data": 888519
+  },
+  "model": "item/custom/average_weapons/stone_warhammer"
+},
+{
+  "predicate": {
+    "custom_model_data": 888520
+  },
+  "model": "item/custom/average_weapons/stone_short_spear"
+},
+
+
+
+
+
+{
+	"predicate": {
+	  "custom_model_data": 888521
+	},
+	"model": "item/custom/average_weapons/lustra_sickle"
+},
+{
+  "predicate": {
+	"custom_model_data": 888522
+  },
+  "model": "item/custom/average_weapons/lustra_rapier"
+},
+{
+"predicate": {
+  "custom_model_data": 888523
+},
+"model": "item/custom/average_weapons/lustra_cutlass"
+},
+{
+"predicate": {
+"custom_model_data": 888524
+},
+"model": "item/custom/average_weapons/lustra_sabre"
+},
+{
+"predicate": {
+"custom_model_data": 888525
+},
+"model": "item/custom/average_weapons/lustra_bludgeon"
+},
+{
+"predicate": {
+"custom_model_data": 888526
+},
+"model": "item/custom/average_weapons/lustra_greatsword"
+},
+{
+"predicate": {
+"custom_model_data": 888527
+},
+"model": "item/custom/average_weapons/lustra_dagger"
+},
+{
+"predicate": {
+"custom_model_data": 888528
+},
+"model": "item/custom/average_weapons/lustra_katana"
+},
+{
+"predicate": {
+"custom_model_data": 888529
+},
+"model": "item/custom/average_weapons/lustra_buckler"
+},
+{
+	"predicate": {
+	"custom_model_data": 888530
+	},
+	"model": "item/custom/average_weapons/lustra_warhammer"
+	},
+{
+"predicate": {
+"custom_model_data": 888531
+},
+"model": "item/custom/average_weapons/lustra_short_spear"
+},
+{
+	"predicate": {
+	  "custom_model_data": 888532
+	},
+	"model": "item/custom/average_weapons/lustra_sword"
+}
+    ]
+}

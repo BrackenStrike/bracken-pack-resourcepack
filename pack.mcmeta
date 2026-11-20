@@ -1,15 +1,8 @@
 {
 	"pack": {
-		"description": "By BrackenStrike!",
-		"min_format": [97,1],
-		"max_format": [97,1]
+		"pack_format": 34,
+		"description": "The Bracken Pack's Official Resource Pack"
 	},
-	"overlays": { "entries": [{
-		"directory": "overlay",
-		"min_format": [97,1],
-		"max_format": [97,1]
-	}]}
-	,
 	"language": {
 		"common": {
 			"name": "Common",

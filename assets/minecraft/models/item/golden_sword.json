@@ -1,0 +1,147 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+        
+        {
+          "predicate": {
+            "custom_model_data": 888510
+          },
+          "model": "item/custom/average_weapons/golden_sickle"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 888511
+        },
+        "model": "item/custom/average_weapons/golden_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888512
+      },
+      "model": "item/custom/average_weapons/golden_cutlass"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 888513
+    },
+    "model": "item/custom/average_weapons/golden_sabre"
+},
+{
+  "predicate": {
+    "custom_model_data": 888514
+  },
+  "model": "item/custom/average_weapons/golden_bludgeon"
+},
+{
+  "predicate": {
+    "custom_model_data": 888515
+  },
+  "model": "item/custom/average_weapons/golden_greatsword"
+},
+{
+  "predicate": {
+    "custom_model_data": 888516
+  },
+  "model": "item/custom/average_weapons/golden_dagger"
+},
+{
+  "predicate": {
+    "custom_model_data": 888517
+  },
+  "model": "item/custom/average_weapons/golden_katana"
+},
+{
+  "predicate": {
+    "custom_model_data": 888518
+  },
+  "model": "item/custom/average_weapons/golden_buckler"
+},
+{
+  "predicate": {
+    "custom_model_data": 888519
+  },
+  "model": "item/custom/average_weapons/golden_warhammer"
+},
+{
+  "predicate": {
+    "custom_model_data": 888520
+  },
+  "model": "item/custom/average_weapons/golden_short_spear"
+},
+{
+  "predicate": {
+    "custom_model_data": 888521
+  },
+  "model": "item/custom/average_weapons/copper_sickle"
+},
+{
+"predicate": {
+  "custom_model_data": 888522
+},
+"model": "item/custom/average_weapons/copper_rapier"
+},
+{
+"predicate": {
+"custom_model_data": 888523
+},
+"model": "item/custom/average_weapons/copper_cutlass"
+},
+{
+"predicate": {
+"custom_model_data": 888524
+},
+"model": "item/custom/average_weapons/copper_sabre"
+},
+{
+"predicate": {
+"custom_model_data": 888525
+},
+"model": "item/custom/average_weapons/copper_bludgeon"
+},
+{
+"predicate": {
+"custom_model_data": 888526
+},
+"model": "item/custom/average_weapons/copper_greatsword"
+},
+{
+"predicate": {
+"custom_model_data": 888527
+},
+"model": "item/custom/average_weapons/copper_dagger"
+},
+{
+"predicate": {
+"custom_model_data": 888528
+},
+"model": "item/custom/average_weapons/copper_katana"
+},
+{
+"predicate": {
+"custom_model_data": 888529
+},
+"model": "item/custom/average_weapons/copper_buckler"
+},
+{
+"predicate": {
+"custom_model_data": 888530
+},
+"model": "item/custom/average_weapons/copper_warhammer"
+},
+{
+"predicate": {
+"custom_model_data": 888531
+},
+"model": "item/custom/average_weapons/copper_short_spear"
+},
+{
+	"predicate": {
+	  "custom_model_data": 888532
+	},
+	"model": "item/custom/average_weapons/copper_sword"
+}
+    ]
+}

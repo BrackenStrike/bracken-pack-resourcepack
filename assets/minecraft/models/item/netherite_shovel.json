@@ -1,0 +1,23 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_shovel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":888501}, "model": "item/jewel_of_fuar"},
+		{
+			"predicate": {
+			  "custom_model_data": 888502
+			},
+			"model": "item/custom/average_weapons/lustra_shovel"
+		},
+		{
+			"predicate": {
+			  "custom_model_data": 888503
+			},
+			"model": "item/custom/average_weapons/meteoric_shovel"
+		}
+
+	]
+}

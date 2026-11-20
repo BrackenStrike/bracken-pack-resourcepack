@@ -1,0 +1,172 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+	  "layer0": "minecraft:item/netherite_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+			  "custom_model_data": 888501
+			},
+			"model": "item/custom/paxmaker_sword"
+		},
+		{
+			"predicate": {
+			  "custom_model_data": 888502
+			},
+			"model": "item/custom/sai"
+		},
+		  
+		  {
+			"predicate": {
+			  "custom_model_data": 888510
+			},
+			"model": "item/custom/average_weapons/netherite_sickle"
+		},
+		{
+		  "predicate": {
+			"custom_model_data": 888511
+		  },
+		  "model": "item/custom/average_weapons/netherite_rapier"
+	  },
+	  {
+		"predicate": {
+		  "custom_model_data": 888512
+		},
+		"model": "item/custom/average_weapons/netherite_cutlass"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 888513
+	  },
+	  "model": "item/custom/average_weapons/netherite_sabre"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888514
+	},
+	"model": "item/custom/average_weapons/netherite_bludgeon"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888515
+	},
+	"model": "item/custom/average_weapons/netherite_greatsword"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888516
+	},
+	"model": "item/custom/average_weapons/netherite_dagger"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888517
+	},
+	"model": "item/custom/average_weapons/netherite_katana"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888518
+	},
+	"model": "item/custom/average_weapons/netherite_buckler"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888519
+	},
+	"model": "item/custom/average_weapons/netherite_warhammer"
+  },
+  {
+	"predicate": {
+	  "custom_model_data": 888520
+	},
+	"model": "item/custom/average_weapons/netherite_short_spear"
+  },
+
+
+
+
+
+
+
+
+
+
+{
+	"predicate": {
+	  "custom_model_data": 888533
+	},
+	"model": "item/custom/average_weapons/meteoric_sword"
+},
+
+
+
+{
+	"predicate": {
+	  "custom_model_data": 888534
+	},
+	"model": "item/custom/average_weapons/meteoric_sickle"
+},
+{
+  "predicate": {
+	"custom_model_data": 888535
+  },
+  "model": "item/custom/average_weapons/meteoric_rapier"
+},
+{
+"predicate": {
+  "custom_model_data": 888536
+},
+"model": "item/custom/average_weapons/meteoric_cutlass"
+},
+{
+"predicate": {
+"custom_model_data": 888537
+},
+"model": "item/custom/average_weapons/meteoric_sabre"
+},
+{
+"predicate": {
+"custom_model_data": 888538
+},
+"model": "item/custom/average_weapons/meteoric_bludgeon"
+},
+{
+"predicate": {
+"custom_model_data": 888539
+},
+"model": "item/custom/average_weapons/meteoric_greatsword"
+},
+{
+"predicate": {
+"custom_model_data": 888540
+},
+"model": "item/custom/average_weapons/meteoric_dagger"
+},
+{
+"predicate": {
+"custom_model_data": 888541
+},
+"model": "item/custom/average_weapons/meteoric_katana"
+},
+{
+"predicate": {
+"custom_model_data": 888542
+},
+"model": "item/custom/average_weapons/meteoric_buckler"
+},
+{
+	"predicate": {
+	"custom_model_data": 888543
+	},
+	"model": "item/custom/average_weapons/meteoric_warhammer"
+	},
+{
+"predicate": {
+"custom_model_data": 888544
+},
+"model": "item/custom/average_weapons/meteoric_short_spear"
+}
+	  ]
+  }

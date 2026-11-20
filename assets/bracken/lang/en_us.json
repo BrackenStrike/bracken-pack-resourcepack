@@ -10,11 +10,5 @@
     "trim_pattern.bracken.sanctum": "Ruin Armor Trim",
     "trim_pattern.bracken.underdark": "Crystal Armor Trim",
     "trim_pattern.bracken.panacea": "Vine Armor Trim",
-    "bracken.music.brine": "Arnold Rynux - Brine",
-    "bracken.music.faewild": "Arnold Rynux - Faewilds",
-    "bracken.music.varskspace": "Arnold Rynux - Varskpace", 
-    "bracken.music.dormis": "Arnold Rynux - Dormis",
-    "bracken.music.glacium": "Arnold Rynux - Glacium",
-    "bracken.music.omnidrome": "Arnold Rynux - Omnidrome",
-    "bracken.music.underdark": "Arnold Rynux - Underdark"
+    "trim_material.bracken.blaze": "Blaze Material"
 }
