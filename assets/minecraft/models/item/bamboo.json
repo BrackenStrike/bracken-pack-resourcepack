@@ -35,11 +35,6 @@
     {"predicate": {"custom_model_data":888526}, "model": "item/shadows/fae9"},
     {"predicate": {"custom_model_data":888527}, "model": "item/shadows/fae10"},
 
-    {"predicate": {"custom_model_data":888528}, "model": "item/shadows/crofter"},
-    {"predicate": {"custom_model_data":888529}, "model": "item/shadows/smeaglin"},
-    {"predicate": {"custom_model_data":888530}, "model": "item/shadows/glacium_valkyrie"},
-    {"predicate": {"custom_model_data":888531}, "model": "item/shadows/thrall"},
-    {"predicate": {"custom_model_data":888532}, "model": "item/shadows/unsung"},
-    {"predicate": {"custom_model_data":888533}, "model": "item/shadows/viceroy"}
+    {"predicate": {"custom_model_data":888528}, "model": "item/shadows/crofter"}
     ]
    }

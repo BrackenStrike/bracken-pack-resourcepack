@@ -10,55 +10,50 @@
             "source": "item",
             "prefix": "item/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/books",
             "prefix": "custom_items/books/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/discs",
             "prefix": "custom_items/discs/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/glacium",
             "prefix": "custom_items/glacium/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/keys",
             "prefix": "custom_items/keys/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/others",
             "prefix": "custom_items/others/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/panacea",
             "prefix": "custom_items/panacea/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/random",
             "prefix": "custom_items/random/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/vitality",
             "prefix": "custom_items/vitality/"
         },
-        {
+		{
             "type": "directory",
             "source": "custom_items/brine_ing",
             "prefix": "custom_items/brine_ing/"
-        },
-        {
-            "type": "directory",
-            "source": "custom_items/species_fruit",
-            "prefix": "custom_items/species_fruit/"
         },
         {
             "type": "directory",
@@ -72,19 +67,6 @@
         {
             "type": "single",
             "resource": "entity/enchanting_table_book"
-        },
-        {
-            "type": "paletted_permutations",
-            "textures": [
-                "trims/items/leggings_trim",
-                "trims/items/chestplate_trim",
-                "trims/items/helmet_trim",
-                "trims/items/boots_trim"
-            ],
-            "palette_key": "trims/color_palettes/trim_palette",
-            "permutations": {
-                "blaze": "bracken:trims/color_palettes/blaze"
-            }
         }
     ]
 }

@@ -40,17 +40,11 @@
             },
             "model": "item/custom/discs/music_disc_viceroy"
         },
-		{
+    {
             "predicate": {
               "custom_model_data": 888507
             },
             "model": "item/custom/discs/music_disc_varskspace"
-        },
-		{
-            "predicate": {
-              "custom_model_data": 888508
-            },
-            "model": "item/custom/discs/music_disc_omnidrome"
         }
     ]
 }

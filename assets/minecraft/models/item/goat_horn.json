@@ -9,18 +9,6 @@
               "custom_model_data": 888501
             },
             "model": "item/custom/creeper_horn"
-        },
-        {
-          "predicate": {
-            "custom_model_data": 888502
-          },
-          "model": "item/custom/tools/bagpipe"
-      },
-      {
-        "predicate": {
-          "custom_model_data": 888503
-        },
-        "model": "item/custom/tools/golden_horn"
-    }
+        }
     ]
 }

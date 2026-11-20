@@ -5,19 +5,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":888501}, "model": "item/feilfri"},
-		{
-			"predicate": {
-			  "custom_model_data": 888502
-			},
-			"model": "item/custom/average_weapons/lustra_pickaxe"
-		},
-		{
-			"predicate": {
-			  "custom_model_data": 888503
-			},
-			"model": "item/custom/average_weapons/meteoric_pickaxe"
-		}
+		{"predicate": {"custom_model_data":888501}, "model": "item/feilfri"}
 
 	]
 }

@@ -5,19 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":888501}, "model": "item/carthendryll"},
-		{
-			"predicate": {
-			  "custom_model_data": 888502
-			},
-			"model": "item/custom/average_weapons/lustra_hoe"
-		},
-		{
-			"predicate": {
-			  "custom_model_data": 888503
-			},
-			"model": "item/custom/average_weapons/meteoric_hoe"
-		}
-
+		{"predicate": {"custom_model_data":1}, "model": "item/carthendryll"}
 	]
 }
