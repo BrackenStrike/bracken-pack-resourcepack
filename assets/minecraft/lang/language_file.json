@@ -1,7 +1,7 @@
 {
     # The Bracken Pack Language File
     # Translator: 
-    # Datapack version: v92
+    # Datapack version: v124
     
     #
     #
@@ -80,15 +80,51 @@
         # Pax #
         #   #
             "Pax Aeterna": "",
-            "Ascend further to the Pax dimesion":"",
+            "Ascend further to the Pax dimension":"",
+
+            "Eternal Walker": "",
+            "Visit all Pax biomes":"",
+
+            "Season of Harvest": "",
+            "Enter the autumn idyll biome":"",
+
+            "Season of Respite": "",
+            "Enter the cloud canopy biome":"",
+
+            "I think. I am.": "",
+            "Visit the double trees":"",
+
+            "Pax": "",
+            "Realm of Peace":"",
+
+            "Season of Burgeoning": "",
+            "Enter the sky garden biome":"",
+
+            "Separate Ways": "",
+            "Find the Pax gateway":"",
+
+            "Season of Renaissance": "",
+            "Enter the petal grove biome":"",
+
+            "Place of Former Dreaming": "",
+            "Enter the cenotaph biome":"",
     
         # The Faewild #
         #   #
             "Castles in the Sky": "",
             "Climb up to the Faewild": "",
+
+            "Elsewhere Wanderer": "",
+            "Visit all Faewild biomes": "",
+
+            "Cloud-Capp'd Towers": "",
+            "Journey to the fae castle": "",
             
             "More than Kin, Less than Kind": "",
-            "Journey to the fae castle": "",
+            "Enter the clandestine castlegrounds biome": "",
+
+            "Buys No Better Treasure": "",
+            "Obtain raw copper in the Faewild": "",
     
             "Shadow of a Dream": "",
             "Enter the darkthunder thicket biome": "",
@@ -97,6 +133,12 @@
             "Enter the dreamfall dells biome": "",
     
             "O Brave New World!": "",
+
+            "Fling Away Ambition": "",
+            "Find a forbidden object": "",
+
+            "Nothing Will Come of Nothing": "",
+            "Anger the Fae Emperor again": "",
     
             "Worst of Nightmares": "",
             "Vanquish a knightmare": "",
@@ -106,6 +148,15 @@
     
             "Blind Love": "",
             "Obtain the enchanting table from the rampion tower": "",
+
+            "Cried to Dream Again": "",
+            "Overthrow the Emperor!": "",
+
+            "In Black Ink my Love": "",
+            "Destroy one of the four inked hearts hidden in the castle. Collect the fragment as a souvenir": "",
+
+            "Copper Craft": "",
+            "Craft a copper sword in the Faewild": "",
     
             "All the World's a Stage": "",
             "Visit the fae theatre": "",
@@ -123,6 +174,15 @@
     
             "Expert Spelunker": "",
             "Visit every Underdark biome": "",
+
+            "It was me, Diorite!": "",
+            "Enter the diorite sea biome": "",
+
+            "Way Down We Go": "",
+            "Dig even deeper. See if anything looks familiar": "",
+
+            "600 Calories": "",
+            "Throw an item near Smeglin": "",
     
             "Crystal Clear": "",
             "Enter the crystal caves biome": "",
@@ -207,6 +267,36 @@
     
             "Otherworldly Waypoint": "",
             "Descend into the voidship harbor biome": "",
+
+            "Accomplished Archaeologist": "",
+            "Visit all Sanctum biomes": "",
+
+            "Nature is Healing": "",
+            "Use bone meal in Sanctum": "",
+
+            "Gentle Giant": "",
+            "Ride a paraceratherium": "",
+
+            "Crazy Compass": "",
+            "Break an unruly compass with your teeth": "",
+
+            "I'm Vengeance": "",
+            "Obtain the Nightfall elytra": "",
+
+            "Life Finds a Way": "",
+            "Find and consume tropical fish": "",
+
+            "Again? Alright, I guess.": "",
+            "Place an end crystal in the Sanctum and sprint nearby to enter the Omnidrome (again)": "",
+
+            "Dust Bowl": "",
+            "Experience a dust storm in Sanctum": "",
+
+            "Anomalocarriage": "",
+            "Find a voidship mini hanger": "",
+
+            "Varskstorm": "",
+            "Break a copper compass during rain or stormy weather": "",
     
         # Void #
         #   #
@@ -219,7 +309,44 @@
         # Dormis #
         #   #        
             "Interdimensional Criminal": "",
-            "Get stuck in Dormis. Not really the wisest thing to do. ": "",
+            "Get sent to Dormis. You monster.": "",
+
+            "Prison Tour": "",
+            "Visit all Dormis biomes": "",
+
+            "Another Inmate": "",
+            "Find another suspended cage. Free the prisoner inside if you want.": "",
+
+            "An Awful Lot of an Allotted Lot": "",
+            "Find the Thrall's courtyard": "",
+            
+            "The Prison Dimension": "",
+
+            "Tactical Retreat": "",
+            "Defeat the Thrall": "",
+
+            "Translate the Slate": "",
+            "Unearth a giant slate": "",
+
+            "Name Game": "",
+            "Rename the Thrall to his true name": "",
+
+            "Thrall of Fame": "",
+            "Challenge the burning Thrall at the center of the courtyard": "",
+
+            "Bailed Out": "",
+            "Escape from Dormis to Varskspace": "",
+
+            "Prison Break!": "",
+            "Get to the bottom of Dormis and escape to the Void": "",
+
+            "Deep Wisdom": "",
+            "Enter the ramothium biome": "",
+
+            "Flare Warning": "",
+            "Enter the bezerium biome": "",
+
+            
     
         # Glacium #
         #   #
@@ -263,13 +390,69 @@
     
             "Snowfall": "",
             "Survive standing on an activated beacon. Crash through to Glacium.": "",
+
+            "Unbreakable Expeditionist": "",
+            "Visit all Glacium biomes": "",
+
+            "Frozen Tears": "",
+            "Obtain cryolith in Glacium": "",
+
+            "Cryolith Craft": "",
+            "Craft cryolith leggings in Glacium": "",
+
+            "Polar Vortex": "",
+            "Experience a blizzard in Glacium": "",
+
+            "Best Served Cold": "",
+            "Use a frost spite item upon death": "",
     
     
     
         # Omnidrome #
         #   #
             "Synthwave Symphony": "",
-            "Place an end crystal in the nether and sprint nearby to enter the Omnidrome": "",
+            "Place an end crystal in sanctum and sprint nearby to enter the Omnidrome": "",
+
+            "Adept Researcher": "",
+            "Visit all Omnidrome biomes": "",
+
+            "Rogue Navigator": "",
+            "Examine the Disruptor": "",
+
+            "Storage Settings": "",
+            "Enter the archivistory biome": "",
+
+            "Realm of the false Mods": "",
+
+            "Vaporous Waves": "",
+            "Enter the fabricylum biome": "",
+
+            "Induced Apoptosis": "",
+            "End the Disruptor's rebellion": "",
+
+            "Round Trip": "",
+            "Sprint inside an end crystal to travel between Omnidrome and Sanctum": "",
+
+            "Powledge is Knower": "",
+            "Visit an Omnidrome library": "",
+
+            "Book Thief": "",
+            "Find the hidden library loot": "",
+
+            "Cyborg Bug Barge": "",
+            "Inspect the living palace": "",
+
+            "Welcome Guest": "",
+            "Enter the Omnidrome as an Automech": "",
+
+            "Under Construction": "",
+            "Enter the stanterion biome": "",
+
+            "Omni-Powers": "",
+            "Type /trigger OMNI.COMMAND": "",
+
+            "Test Tube": "",
+            "Enter a creature containment tube": "",
     
         # Panacea #
         #   #
@@ -300,7 +483,7 @@
             "Fight with a Gothrum Fang": "",
     
             "Hunt a Legend": "",
-            "Damage the Sporangium until it enters its final form": "",
+            "Destroy the ancient Sporangium": "",
     
             "This is Madness!": "",
             "Consume yakitubba hide. Go berserk!": "",
@@ -331,6 +514,12 @@
     
             "A Giving Tree": "",
             "Investigate the tetra tree": "",
+
+            "Dauntless Survivalist": "",
+            "Visit all Panacea biomes": "",
+
+            "Verdant Craft": "",
+            "Craft a verdant helmet in Panacea": "",
     
         # The Brine #
         #   #
@@ -355,18 +544,56 @@
             "Enter the revered waters biome": "",
     
             "Burning Dispassion": "",
-            "Destroy the burning heart at the center of the station. Collect the fragment as a souvenir": "",
+            "Destroy the burning heart at the center of the station. Collect the fragment as a souvenir.": "",
     
             "Keeping the Peace": "",
             "Approach a Realmkeeper station": "",
     
             "Yikes!": "",
             "Get attacked by a bobbit worm": "",
+
+            "Strong-hearted Voyager": "",
+            "Visit all Brine biomes": "",
+
+            "Never Again.": "",
+            "Visit the deluge city": "",
+
+            "Darkness": "",
+            "Enter the indigo median biome": "",
+
+            "Ad Infinitum": "",
+            "Obtain essence of infinity": "",
+
+            "Release the Kraken!": "",
+            "Free the Kraken at the center of the city": "",
+
+            "Pearl of High Value": "",
+            "Obtain a lustra pearl from a giant clam or deluge city": "",
+
+            "Effective Rainfall": "",
+            "Experience potion rain in the Brine": "",
+
+            "Lustra Craft": "",
+            "Craft a lustra shovel in the Brine": "",
+
+            "Kraken-Lackin'": "",
+            "Slay the Kraken": "",
     
         # Varskspace #
         #   #
             "Cherenkovicious": "",
             "Get struck by lightning. Arrive somewhere else???": "",
+
+            "Friction in Motion": "",
+            "Generate lightning by sprinting": "",
+
+            "Travelers' realm": "",
+
+            "Escape Velocity": "",
+            "Run too fast. Leave Varskspace.": "",
+
+            "Spacetime Landmark": "",
+            "Find an Indicator Spire": "",
     
         # Other #
         #   #

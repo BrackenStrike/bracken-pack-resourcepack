@@ -1,7 +1,8 @@
 {
 # The Bracken Pack Language File
 # Translator: Arnold_Rynux
-# Datapack version: v92
+# Helper Translator: Bracken (If the translation fails blame me not Arnold) 
+# Datapack version: v124
 
 # The Bracken Pack 语言文件
 # 译者: Arnold_Rynux
@@ -80,7 +81,26 @@
     # Pax #
     # 天境 #
         "Pax Aeterna": "永恒天境",
-        "Ascend further to the Pax dimesion":"扶摇而上，直达天境",
+        "Ascend further to the Pax dimension":"扶摇而上，直达天境",
+        "Eternal Walker":"扶",
+        "Visit all Pax biomes":"扶",
+        "Season of Harvest":"扶",
+        "Enter the autumn idyll biome":"扶",
+        "Season of Respite":"扶",
+        "Enter the cloud canopy biome":"扶",
+        "Interdimensional Criminal":"扶",
+        "Get sent to Dormis. You monster.":"扶",
+        "I think. I am.":"扶",
+        "Visit the double trees":"扶",
+        "Realm of peace":"扶",
+        "Season of Burgeoning":"扶",
+        "Enter the sky garden biome":"扶",
+        "Separate Ways":"扶",
+        "Find the Pax gateway":"扶",
+        "Season of Renaissance":"扶",
+        "Enter the petal grove biome":"扶",
+        "Place of Former Dreaming":"扶",
+        "Enter the cenotaph biome":"扶",
 
     # The Faewild #
     # 仙灵荒野 #
@@ -112,6 +132,27 @@
 
         "Good and Ill Together": "吉凶交织",
         "Discover the fae village": "发现仙灵村庄",
+
+        "Elsewhere Wanderer":"扶",
+        "Visit all Faewild biomes":"扶",
+        "Cloud-Capp'd Towers":"扶",
+        "Enter the clandestine castlegrounds biome":"扶",
+        "Buys No Better Treasure":"扶",
+        "Obtain raw copper in the Faewild":"扶",
+        "Nothing Will Come of Nothing":"扶",
+        "Anger the Fae Emperor again":"扶",
+        "Undreamed Shores":"扶",
+        "Ride in a flying boat":"扶",
+        "Fling Away Ambition":"扶",
+        "Find a forbidden object":"扶",
+        "Pax Aeterna":"扶",
+        "Cried to Dream Again":"扶",
+        "Overthrow the Emperor!":"扶",
+        "In Black Ink my Love":"扶",
+        "Destroy one of the four inked hearts hidden in the castle. Collect the fragment as a souvenir.":"扶",
+        "Copper Craft":"扶",
+        "Craft a copper sword in the Faewild":"扶",
+
 
     # Overworld #
     # 主世界 #
@@ -168,6 +209,13 @@
         "Wrong Way Wagon": "错路行车",
         "Loot an ensnared wagon deep within a spider's nest": "搜刮蜘蛛巢深处的车",
 
+        "It was me, Diorite!":"扶",
+        "Enter the diorite sea biome":"扶",
+        "Way Down We Go":"扶",
+        "Dig even deeper. See if anything looks familiar":"扶",
+        "600 calories":"扶",
+        "Throw an item near Smeglin":"扶",
+
     # The Nether #
     # 下界 #
 
@@ -208,10 +256,38 @@
         "Otherworldly Waypoint": "异世航点",
         "Descend into the voidship harbor biome": "走下虚空船港生物群落",
 
+        "Accomplished Archaeologist":"扶",
+        "Visit all Sanctum biomes":"扶",
+        "Nature is Healing":"扶",
+        "Use bone meal in Sanctum":"扶",
+        "Gentle Giant":"扶",
+        "Ride a paraceratherium":"扶",
+        "Crazy Compass":"扶",
+        "Break an unruly compass with your teeth":"扶",
+        "I'm Vengeance":"扶",
+        "Obtain the Nightfall elytra":"扶",
+        "Life Finds a Way":"扶",
+        "Find and consume tropical fish":"扶",
+        "Again? Alright, I guess.":"扶",
+        "Place an end crystal in the Sanctum and sprint nearby to enter the Omnidrome (again)":"扶",
+        "One Way Portal":"扶",
+        "Jump in the omni-portal and forever shatter the barrier between Sanctum and Omnidrome":"扶",
+        "Dust Bowl":"扶",
+        "Find a voidship mini hanger":"扶",
+        "Break a copper compass during rain or stormy weather":"扶",
+        
+
+
     # Void #
     # 虚无之地 #
         "Nothing here.": "空无一物",
         "Slip beneath worlds. Forget what you see there.": "到达世界之下，忘记你所见之物",
+
+        "The Space Between Spaces":"扶",
+        "Reverse Lootbox":"扶",
+        "Fall to the bottom of the Void. End up in a random dimension.":"扶",
+        "Well, That's Unfortunate":"扶",
+        "Roll the dice. Get sent to the Void... Again.":"扶",
 
     # The End #
     # 末地 #
@@ -220,6 +296,30 @@
     # 梦境之狱 #        
         "Interdimensional Criminal": "维际罪犯",
         "Get stuck in Dormis. Not really the wisest thing to do. ": "被困梦境之狱，不是最明智的选择",
+
+        "Prison Tour":"扶",
+        "Visit all Dormis biomes":"扶",
+        "Another Inmate":"扶",
+        "Find another suspended cage. Free the prisoner inside if you want.":"扶",
+        "An Awful Lot of an Allotted Lot":"扶",
+        "Find the Thrall's courtyard":"扶",
+        "The Prison Dimension":"扶",
+        "Tactical Retreat":"扶",
+        "Defeat the Thrall":"扶",
+        "Translate the Slate":"扶",
+        "Unearth a giant slate":"扶",
+        "Name Game":"扶",
+        "Rename the Thrall to his true name":"扶",
+        "Thrall of Fame":"扶",
+        "Challenge the burning Thrall at the center of the courtyard":"扶",
+        "Bailed Out":"扶",
+        "Escape from Dormis to Varskspace":"扶",
+        "Prison Break!":"扶",
+        "Get to the bottom of Dormis and escape to the Void":"扶",
+        "Deep Wisdom":"扶",
+        "Enter the ramothium biome":"扶",
+        "Flare Warning":"扶",
+        "Enter the bezerium biome":"扶",
 
     # Glacium #
     # 极寒冰川 #
@@ -264,12 +364,51 @@
         "Snowfall": "降雪",
         "Survive standing on an activated beacon. Crash through to Glacium.": "在激活的信标上活下来，坠往极寒冰川",
 
+        "Unbreakable Expeditionist":"扶",
+        "Visit all Glacium biomes":"扶",
+        "Frozen Tears":"扶",
+        "Obtain cryolith in Glacium":"扶",
+        "Cryolith Craft":"扶",
+        "Craft cryolith leggings in Glacium":"扶",
+        "Polar Vortex":"扶",
+        "Experience a blizzard in Glacium":"扶",
+        "Best Served Cold":"扶",
+        "Use a frost spite item upon death":"扶",
+
 
 
     # Omnidrome #
     # 全位领域 #
         "Synthwave Symphony": "合成交响",
         "Place an end crystal in the nether and sprint nearby to enter the Omnidrome": "在下界放置一颗末影水晶，并且冲向它，到达全位领域",
+
+        "Adept Researcher":"扶",
+        "Visit all Omnidrome biomes":"扶",
+        "Rogue Navigator":"扶",
+        "Examine the Disruptor":"扶",
+        "Storage Settings":"扶",
+        "Enter the archivistory biome":"扶",
+        "Realm of the false Mods":"扶",
+        "Vaporous Waves":"扶",
+        "Enter the fabricylum biome":"扶",
+        "Induced Apoptosis":"扶",
+        "End the Disruptor's rebellion":"扶",
+        "Round Trip":"扶",
+        "Sprint inside an end crystal to travel between Omnidrome and Sanctum":"扶",
+        "Powledge is Knower":"扶",
+        "Visit an Omnidrome library":"扶",
+        "Book Thief":"扶",
+        "Find the hidden library loot":"扶",
+        "Cyborg Bug Barge":"扶",
+        "Inspect the living palace":"扶",
+        "Welcome Guest":"扶",
+        "Enter the Omnidrome as an Automech":"扶",
+        "Under Construction":"扶",
+        "Enter the stanterion biome":"扶",
+        "Omni-Powers":"扶",
+        "Type /trigger OMNI.COMMAND":"扶",
+        "Test Tube":"扶",
+        "Enter a creature containment tube":"扶",
 
     # Panacea #
     # 万灵之地 #
@@ -300,7 +439,7 @@
         "Fight with a Gothrum Fang": "使用戈斯朗獠牙战斗",
 
         "Hunt a Legend": "狩猎传奇",
-        "Damage the Sporangium until it enters its final form": "攻击孢囊直至最终形态",
+
 
         "This is Madness!": "简直是疯了！",
         "Consume yakitubba hide. Go berserk!": "食用亚奇图巴皮，化身狂战士！",
@@ -331,6 +470,13 @@
 
         "A Giving Tree": "无私的树",
         "Investigate the tetra tree": "探访群生之树",
+
+        "Dauntless Survivalist":"扶",
+        "Visit all Panacea biomes":"扶",
+
+        "Destroy the ancient Sporangium":"扶",
+        "Verdant Craft":"扶",
+        "Craft a verdant helmet in Panacea":"扶",
 
     # The Brine #
     # 盐海 #
@@ -363,10 +509,37 @@
         "Yikes!": "哎呀！",
         "Get attacked by a bobbit worm": "受到博比特虫攻击",
 
+        "Strong-hearted Voyager":"扶",
+        "TVisit all Brine biomes":"扶",
+        "Never Again.":"扶",
+        "Visit the deluge city":"扶",
+        "Darkness":"扶",
+        "Enter the indigo median biome":"扶",
+        "TAd Infinitum":"扶",
+        "Obtain essence of infinity":"扶",
+        "Release the Kraken!":"扶",
+        "Free the Kraken at the center of the city":"扶",
+        "Pearl of High Value":"扶",
+        "Obtain a lustra pearl from a giant clam or deluge city":"扶",
+        "Effective Rainfall":"扶",
+        "Experience potion rain in the Brine":"扶",
+        "Lustra Craft":"扶",
+        "Craft a lustra shovel in the Brine":"扶",
+        "Kraken-Lackin":"扶",
+        "Slay the Kraken":"扶",
+
     # Varskspace #
     # 万象空间 #
         "Cherenkovicious": "切连科夫效应",
         "Get struck by lightning. Arrive somewhere else???": "被闪电击中，到达另一个地方？？？",
+
+        "Friction in Motion":"扶",
+        "Generate lightning by sprinting":"扶",
+        "Travelers' realm":"扶",
+        "Escape Velocity":"扶",
+        "NRun too fast. Leave":"扶",
+        "Spacetime Landmark":"扶",
+        "Find an Indicator Spire":"扶",
 
     # Other #
     # 其他 #
@@ -804,6 +977,74 @@
     "Nether height is already set to Normal!": "下界高度已设置为原版！",
 
     "Use \"/function bracken:config\" to configure settings for the Bracken Pack": "使用\"/function bracken:config\"来调整设置",
+
+# Enchantments #
+#  #
+    "Abstraction": "复",
+    "Boldness": "复",
+    "Butchering": "复",
+    "Cleaving": "复",
+    "Defusing": "复",
+    "Dentine Touch": "复",
+    "Ferocity": "复",
+    "Flame Walker": "复",
+    "Float Walker": "复",
+    "Flood Walker": "复",
+    "Guarding": "复",
+    "Huskiness": "复",
+    "Lifesteal": "复",
+    "Lithness": "复",
+    "Mortality": "复",
+    "Obliteration": "复",
+    "Pugnacity": "复",
+    "Pushback": "复",
+    "Quenching": "复",
+    "Rending": "复",
+    "Reverse Thorns": "复",
+    "Searing Surface": "复",
+    "Shrewdness": "复",
+    "Splintering": "复",
+    "Trampling": "复",
+    "Weakening": "复",
+    "Wisdom": "复",
+
+    "Boon of Astuteness": "复",
+    "Boon of Banishment": "复",
+    "Boon of Blinding": "复",
+    "Boon of Chiseling": "复",
+    "Boon of Cleansing": "复",
+    "Boon of Freezing": "复",
+    "Boon of Integrity": "复",
+    "Boon of Poisoning": "复",
+    "Boon of Scorning": "复",
+    "Boon of Silver": "复",
+    "Boon of Spectrality": "复",
+    "Boon of Vitality": "复",
+    "Boon of Withering": "复",
+
+    "Curse of Decaying": "复",
+    "Curse of Devouring": "复",
+    "Curse of Dishonor": "复",
+    "Curse of Dullness": "复",
+    "Curse of Famine Walker": "复",
+    "Curse of Fragility": "复",
+    "Curse of Glowing": "复",
+    "Curse of Insability": "复",
+    "Curse of Lethargy": "复",
+    "Curse of Maiming": "复",
+    "Curse of Sentience #1": "复",
+    "Curse of Sentience #2": "复",
+    "Curse of Sentience #3": "复",
+    "Curse of Sentience #4": "复",
+    "Curse of Sentience #5": "复",
+    "Curse of Sentience #6": "复",
+    "Curse of Sentience #7": "复",
+
+    "Enhanced Fire Aspect": "复",
+    "Enhanced Frost Walker": "复",
+    "Enhanced Mending": "复",
+    "Enhanced Thorns": "复",
+
 
 # Other #
 # 其他 #
