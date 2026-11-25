@@ -2,8 +2,8 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/species/hunter/hunter_spider",
-		"particle": "item/species/hunter/hunter_spider"
+		"0": "item/species/hunter/hunter_spide_eye",
+		"particle": "item/species/hunter/hunter_spide_eye"
 	},
 	"elements": [
 		{

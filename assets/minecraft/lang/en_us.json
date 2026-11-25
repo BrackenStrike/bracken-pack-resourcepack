@@ -1,0 +1,7 @@
+{
+  "death.attack.enderling_hydrophobia": "%1$s's wave function collapsed",
+  "death.attack.netherkin_hydrophobia": "%1$s's flame went out",
+  "death.attack.hunter_morph": "%1$s's's stomach couldn't handle the transformation",
+  "death.attack.kill_book": "%1$s succumbed to entropy",
+  "death.attack.kill_book.player": "%1$s succumbed to %2$s's entropy"
+}

@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/species/hunter/hunter_kelp",
-		"particle": "item/species/hunter/hunter_kelp"
+		"0": "item/species/hunter/hunter_dried_kelp",
+		"particle": "item/species/hunter/hunter_dried_kelp"
 	},
 	"elements": [
 		{

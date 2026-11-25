@@ -2,8 +2,8 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/species/hunter/hunter_beet",
-		"particle": "item/species/hunter/hunter_beet"
+		"0": "item/species/hunter/hunter_beetroot",
+		"particle": "item/species/hunter/hunter_beetroot"
 	},
 	"elements": [
 		{
