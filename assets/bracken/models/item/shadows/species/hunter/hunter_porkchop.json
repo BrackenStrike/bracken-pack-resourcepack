@@ -2,8 +2,8 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/species/hunter/hunter_pig",
-		"particle": "item/species/hunter/hunter_pig"
+		"0": "item/species/hunter/hunter_porkchop",
+		"particle": "item/species/hunter/hunter_porkchop"
 	},
 	"elements": [
 		{
